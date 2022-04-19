@@ -1,7 +1,6 @@
 # Microverse-Html-Css
-
 ## Authors
-### Solomon Khaluhi
+Solomon Khaluhi
 
 ## Languages
 Html
