@@ -1,5 +1,5 @@
 # Microverse-Html-Css
-## Authors
+## Author
 Solomon Khaluhi
 
 ## Languages
@@ -9,4 +9,5 @@ Css
 ## About
 This is an intoduction by Microverse to help me build a good foundation.
 
-
+## Contact by gmail
+khaluhi1997@gmail.com
